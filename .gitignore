@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv
+.DS_Store
+indexes/
+data/
+.env
+src/llm_hall_311/
+src/llm_hall/
