@@ -1,4 +1,4 @@
-A Retrieval-Augmented Generation (RAG) system that **fact-checks its own answers**.
+# A Retrieval-Augmented Generation (RAG) system that **fact-checks its own answers**.
 
 Upload any PDF, ask questions, and receive answers with a **built-in hallucination report**.
 Every generated answer is broken into factual claims, and each claim is **verified against the source document** to estimate reliability.
@@ -227,4 +227,5 @@ assets/
 * Evaluation benchmarks for hallucination detection
 
 ---
+
 
